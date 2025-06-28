@@ -1,0 +1,13 @@
+### PUT request to update  patinet
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+content-Type:application/json
+
+{
+  "name" : "fubk ",
+  "email": "ex1@gmail.com",
+  "address": "123 main street",
+  "dateOfBirth": "1995-12-12"
+}
+
+
+###
